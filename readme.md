@@ -3,7 +3,7 @@
 ## First init the git repository
 ## git bash
 ## Hello Jiten
-
+## Code update gareko hernu xa vhne
 ```bash
 git add .
 ```
@@ -28,3 +28,19 @@ git checkout hash code
 ```bash
 git checkout main
 ```
+
+## Learn to create branch
+```bash
+git branch jiten 
+OR
+git branch -D Jiten
+```
+## switch garnu xa vhne 
+```bash
+git checkout -b Jiten
+````
+## branch hernu xa vhne
+
+```bash
+git branch
+````
