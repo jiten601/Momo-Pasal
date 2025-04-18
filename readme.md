@@ -7,3 +7,11 @@
 ```bash
 git add.
 ```
+
+```bash
+git commit -m "Updated login feature to fix validation bug"
+```
+
+```bash
+git push origin main
+```
